@@ -1,6 +1,4 @@
-<h1 align='center'>PLAYING FOR YOU: TEXT PROMPT-GUIDED JOINT
-AUDIO-VISUAL GENERATION FOR NARRATING FACES
-USING MULTI-ENTANGLED LATENT SPACE</h1>
+<h1 align='center'>Narrating For You: Prompt-guided Audio-visual Narrating Face Generation Employing Multi-entangled Latent Space</h1>
 
 # Goal of the Model compared to SoTA
 
